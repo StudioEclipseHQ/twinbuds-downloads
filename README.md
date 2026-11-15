@@ -2,18 +2,20 @@
 
 Official Windows preview installers from **Studio Eclipse**.
 
-**Current preview: 2.0.6-preview.1.** Both listed releases are marked **Pre-release** on GitHub. These installers are unsigned evaluation builds. Paid Pro checkout is disabled. Physical two-headphone playback and clean-Windows installation tests for the current release remain pending. This is not a production-readiness or Microsoft Store certification claim.
+**Default storefront preview: 2.0.6-preview.1.** All listed releases are marked **Pre-release** on GitHub. These installers are unsigned evaluation builds. Paid Pro checkout is disabled. Physical two-headphone playback and clean-Windows installation tests for the current release remain pending. This is not a production-readiness or Microsoft Store certification claim.
 
 ## Download
 
 - [Current preview release](https://github.com/StudioEclipseHQ/twinbuds-downloads/releases/tag/2.0.6-preview.1)
+- [Optional 2.0.7 preview with the independent storefront link](https://github.com/StudioEclipseHQ/twinbuds-downloads/releases/tag/2.0.7-preview.1)
 - [All releases, including the archived 2.0.5 rollback](https://github.com/StudioEclipseHQ/twinbuds-downloads/releases)
 
 Choose the asset named `TwinBuds-2.0.6-preview.1-win-x64-setup-PREVIEW-UNSIGNED.exe` for the current preview. The older 2.0.5 build is retained for controlled rollback; read its warnings before using it.
 
 | Version | Purpose | Installer size |
 | --- | --- | ---: |
-| 2.0.6-preview.1 | Current evaluation build | 73,253,289 bytes |
+| 2.0.7-preview.1 | Optional preview with the independent storefront link | 73,253,202 bytes |
+| 2.0.6-preview.1 | Default storefront preview | 73,253,289 bytes |
 | 2.0.5-preview.1 | Archived rollback build | 73,251,909 bytes |
 
 ## Before running
